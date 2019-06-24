@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="ef5d0464-a357-4b09-bae2-ee894fa1cfe7" name="Default Changelist" comment="" />
+    <list default="true" id="b4e75028-23c5-41bf-8dd4-c6a60bbe3d2a" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/../charAndBoolean/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../charAndBoolean/.idea/workspace.xml" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -18,8 +20,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/com/mazdak/Main.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="322">
-              <caret line="14" column="55" selection-start-line="14" selection-start-column="45" selection-end-line="14" selection-end-column="55" />
+            <state relative-caret-position="391">
+              <caret line="17" column="57" selection-start-line="17" selection-start-column="57" selection-end-line="17" selection-end-column="57" />
             </state>
           </provider>
         </entry>
@@ -55,38 +57,12 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
-      <pane id="ProjectPane">
-        <subPane>
-          <expand>
-            <path>
-              <item name="charAndBoolean" type="b2602c69:ProjectViewProjectNode" />
-              <item name="charAndBoolean" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="charAndBoolean" type="b2602c69:ProjectViewProjectNode" />
-              <item name="charAndBoolean" type="462c0819:PsiDirectoryNode" />
-              <item name=".idea" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="charAndBoolean" type="b2602c69:ProjectViewProjectNode" />
-              <item name="charAndBoolean" type="462c0819:PsiDirectoryNode" />
-              <item name="out" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="charAndBoolean" type="b2602c69:ProjectViewProjectNode" />
-              <item name="charAndBoolean" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-          </expand>
-          <select />
-        </subPane>
-      </pane>
+      <pane id="ProjectPane" />
       <pane id="PackagesPane" />
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
   </component>
@@ -105,7 +81,7 @@
   <component name="RunManager">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true">
       <option name="MAIN_CLASS_NAME" value="com.mazdak.Main" />
-      <module name="charAndBoolean" />
+      <module name="Strings" />
       <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
       <RunnerSettings RunnerId="Run" />
       <ConfigurationWrapper RunnerId="Run" />
@@ -124,17 +100,17 @@
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="ef5d0464-a357-4b09-bae2-ee894fa1cfe7" name="Default Changelist" comment="" />
-      <created>1561389003918</created>
+      <changelist id="b4e75028-23c5-41bf-8dd4-c6a60bbe3d2a" name="Default Changelist" comment="" />
+      <created>1561389695829</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1561389003918</updated>
-      <workItem from="1561389007503" duration="689000" />
+      <updated>1561389695829</updated>
+      <workItem from="1561389699562" duration="723000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="689000" />
+    <option name="totallyTimeSpent" value="723000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="0" width="814" height="867" extended-state="0" />
@@ -174,21 +150,10 @@
     <option name="version" value="1" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/.idea/modules.xml">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/.idea/misc.xml">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/.idea/workspace.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-1794" />
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/com/mazdak/Main.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="322">
-          <caret line="14" column="55" selection-start-line="14" selection-start-column="45" selection-end-line="14" selection-end-column="55" />
+        <state relative-caret-position="391">
+          <caret line="17" column="57" selection-start-line="17" selection-start-column="57" selection-end-line="17" selection-end-column="57" />
         </state>
       </provider>
     </entry>
