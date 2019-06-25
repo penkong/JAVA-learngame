@@ -1,10 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="f1eddf3c-2254-4052-ad13-c29f36ca051a" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../StatementAndIndenting/StatementAndIndenting.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Operators/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Operators/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="f1eddf3c-2254-4052-ad13-c29f36ca051a" name="Default Changelist" comment="" />
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -21,8 +18,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/com/mazdak/Main.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="426">
-              <caret line="47" column="5" lean-forward="true" selection-start-line="47" selection-start-column="5" selection-end-line="47" selection-end-column="5" />
+            <state relative-caret-position="35">
+              <caret line="33" column="1" lean-forward="true" selection-start-line="33" selection-start-column="1" selection-end-line="33" selection-end-column="1" />
             </state>
           </provider>
         </entry>
@@ -64,6 +61,7 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
   </component>
@@ -106,12 +104,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1561451393958</updated>
-      <workItem from="1561451396428" duration="2771000" />
+      <workItem from="1561451396428" duration="3164000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="2771000" />
+    <option name="totallyTimeSpent" value="3164000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="0" width="814" height="867" extended-state="0" />
@@ -154,8 +152,8 @@
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/src/com/mazdak/Main.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="426">
-          <caret line="47" column="5" lean-forward="true" selection-start-line="47" selection-start-column="5" selection-end-line="47" selection-end-column="5" />
+        <state relative-caret-position="35">
+          <caret line="33" column="1" lean-forward="true" selection-start-line="33" selection-start-column="1" selection-end-line="33" selection-end-column="1" />
         </state>
       </provider>
     </entry>
