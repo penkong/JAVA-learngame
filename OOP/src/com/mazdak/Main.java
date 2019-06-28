@@ -27,7 +27,7 @@ public class Main {
       System.out.println(roberto.getBalance());
 
       VipCustomer person3 = new VipCustomer();
-      
+
 
     }
 }
