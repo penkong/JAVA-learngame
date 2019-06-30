@@ -27,5 +27,11 @@ public class Main {
 //        System.out.println("remain health " + player.healthRemain());
         EnhancedPlayer player = new EnhancedPlayer("max",100,"wso");
         System.out.println("inital health is " + player.getHealthed());
+
+
+        Printer printer = new Printer(59, true);
+        System.out.println("inital page count = " + printer.getPagesPrinted());
+        int pagesPrinted = printer.printPages(4);
+        System.out.println("Pages printed was " + pagesPrinted + " new print totoal" + printer.getPagesPrinted());
     }
 }
